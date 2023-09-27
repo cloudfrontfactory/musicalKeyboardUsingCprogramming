@@ -12,13 +12,22 @@ As I look back on those days, I'm grateful for the opportunities to showcase our
 
 How to run the program:
 
-Step 1	Download Turbo C++ 3.2 from here - https://bit.ly/4598LfQ  \n
-Step 2	If any previous version of "Turbo C++" is installed on your computer, then first of all uninstall that. \n
+Step 1	Download Turbo C++ 3.2 from here - https://bit.ly/4598LfQ 
+
+Step 2	If any previous version of "Turbo C++" is installed on your computer, then first of all uninstall that. 
+
 Step 3	Extract the downloaded "Turbo C++ 3.2.zip" file.
+
 Step 4	Run the "setup.exe" file.
+
 Step 5	Follow the setup instructions.
+
 Step 6	Open Turbo C++
+
 Step 7  Import the musicalKeyboard.c file in Turbo C++
+
 Step 8  From the menu bar Run -> Run 
+
+Step 9 : Checkout the video for more information on how to execute the program - https://www.youtube.com/watch?v=D_IvzR2blg8
 
 Press A to Z any key.
