@@ -30,4 +30,4 @@ Step 8  From the menu bar Run -> Run
 
 Step 9 : Checkout the video for more information on how to execute the program - https://www.youtube.com/watch?v=D_IvzR2blg8
 
-Press A to Z any key.
+Press A to Z any key which generates sound, to stop the sound press shift+8 (*).
