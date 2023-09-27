@@ -12,8 +12,8 @@ As I look back on those days, I'm grateful for the opportunities to showcase our
 
 How to run the program:
 
-Step 1	Download Turbo C++ 3.2 from here - https://bit.ly/4598LfQ 
-Step 2	If any previous version of "Turbo C++" is installed on your computer, then first of all uninstall that.
+Step 1	Download Turbo C++ 3.2 from here - https://bit.ly/4598LfQ  \n
+Step 2	If any previous version of "Turbo C++" is installed on your computer, then first of all uninstall that. \n
 Step 3	Extract the downloaded "Turbo C++ 3.2.zip" file.
 Step 4	Run the "setup.exe" file.
 Step 5	Follow the setup instructions.
